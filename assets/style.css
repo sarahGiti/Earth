@@ -109,6 +109,7 @@ form input{
 	background: #0007;
 	padding: 0 5px;
 	outline: none;
+	color: white;
 }
 form button{
 	width: 50px;
